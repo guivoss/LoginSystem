@@ -1,0 +1,9 @@
+C:\Guilherme\Aula18\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.deps.json
+C:\Guilherme\Aula18\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Guilherme\Aula18\Projeto.Data\bin\Debug\netcoreapp2.1\Projeto.Data.pdb
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csprojAssemblyReference.cache
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.csproj.CoreCompileInputs.cache
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfoInputs.cache
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.AssemblyInfo.cs
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.dll
+C:\Guilherme\Aula18\Projeto.Data\obj\Debug\netcoreapp2.1\Projeto.Data.pdb

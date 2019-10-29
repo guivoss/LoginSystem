@@ -1,0 +1,9 @@
+C:\Guilherme\Aula18\Projeto.Util\bin\Debug\netcoreapp2.1\Projeto.Util.deps.json
+C:\Guilherme\Aula18\Projeto.Util\bin\Debug\netcoreapp2.1\Projeto.Util.dll
+C:\Guilherme\Aula18\Projeto.Util\bin\Debug\netcoreapp2.1\Projeto.Util.pdb
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.csprojAssemblyReference.cache
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.csproj.CoreCompileInputs.cache
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.AssemblyInfoInputs.cache
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.AssemblyInfo.cs
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.dll
+C:\Guilherme\Aula18\Projeto.Util\obj\Debug\netcoreapp2.1\Projeto.Util.pdb
